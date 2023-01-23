@@ -1,0 +1,5 @@
+application.name = springcloud configuration default
+
+application.name = springcloud configuration default DEV
+
+application.name = springcloud configuration default PROD
